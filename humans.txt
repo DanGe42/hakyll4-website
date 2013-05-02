@@ -1,0 +1,7 @@
+/* AUTHOR */
+  Daniel Ge
+
+/* SITE */
+  Technology: Foundation, Hakyll
+  Hosted: Github Pages
+  IDE: Vim

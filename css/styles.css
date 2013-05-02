@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+}
+
+.element {
+  margin: 20px;
+}
+
+#me-desc {
+  color: #666;
+  font-style: italic;
+  font-size: 18px;
+  list-style: none;
+}
+
+#me-desc li {
+  margin-bottom: 1em;
+}

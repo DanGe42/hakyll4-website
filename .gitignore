@@ -1,0 +1,14 @@
+# Haskell
+*.o
+*.hi
+
+# Hakyll
+_*/
+site
+
+# Editor
+*~
+*.swp
+
+# OS X
+.DS_Store
