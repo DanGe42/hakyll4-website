@@ -17,7 +17,7 @@ main = hakyll $ do
     route   idRoute
     compile copyFileCompiler
 
-  match "index.html" $ do
+  match (fromList ["index.html", "404.html"]) $ do
     route idRoute
     compile $ getResourceBody
         >>= loadAndApplyTemplate "templates/default.html" defaultContext
