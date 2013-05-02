@@ -3,6 +3,7 @@ body {
 }
 
 .element {
+  display: block;
   margin: 20px;
 }
 
