@@ -26,3 +26,17 @@ footer p {
 #me-desc li {
   margin-bottom: 1em;
 }
+
+.post-list {
+  list-style: none;
+}
+
+.post-item-title {
+  margin: 0;
+}
+
+.post-item-date {
+  color: #777;
+  font-size: 16px;
+  font-style: italic;
+}
