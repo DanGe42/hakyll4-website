@@ -6,6 +6,16 @@ body {
   margin: 20px;
 }
 
+footer {
+  bottom: 25px;
+  color: #888;
+  font-size: 12px;
+}
+
+footer p {
+  margin: 0;
+}
+
 #me-desc {
   color: #666;
   font-style: italic;
