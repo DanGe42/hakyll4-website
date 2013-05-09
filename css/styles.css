@@ -1,10 +1,23 @@
-body {
-  padding: 50px;
+@media all and (max-width: 767px) {
+  body {
+    padding: 0px;
+  }
+
+  .element {
+    display: block;
+    margin: 5px;
+  }
 }
 
-.element {
-  display: block;
-  margin: 20px;
+@media all and (min-width: 768px) {
+  body {
+    padding: 50px;
+  }
+
+  .element {
+    display: block;
+    margin: 20px;
+  }
 }
 
 header {
